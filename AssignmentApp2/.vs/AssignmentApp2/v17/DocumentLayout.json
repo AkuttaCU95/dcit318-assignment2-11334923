@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1D632D08-53DB-4465-B994-0ED42D87B13A}|AssignmentApp2\\AssignmentApp2.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment2-11334923\\assignmentapp2\\assignmentapp2\\assignmentapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1D632D08-53DB-4465-B994-0ED42D87B13A}|AssignmentApp2\\AssignmentApp2.csproj|solutionrelative:assignmentapp2\\assignmentapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D632D08-53DB-4465-B994-0ED42D87B13A}|AssignmentApp2\\AssignmentApp2.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment2-11334923\\assignmentapp2\\assignmentapp2\\abstractclassesandmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D632D08-53DB-4465-B994-0ED42D87B13A}|AssignmentApp2\\AssignmentApp2.csproj|solutionrelative:assignmentapp2\\abstractclassesandmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D632D08-53DB-4465-B994-0ED42D87B13A}|AssignmentApp2\\AssignmentApp2.csproj|c:\\users\\hp\\downloads\\programming 2 assignment folder\\dcit318-assignment2-11334923\\assignmentapp2\\assignmentapp2\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D632D08-53DB-4465-B994-0ED42D87B13A}|AssignmentApp2\\AssignmentApp2.csproj|solutionrelative:assignmentapp2\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AssignmentApp2",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\AssignmentApp2\\AssignmentApp2.csproj",
-              "RelativeDocumentMoniker": "AssignmentApp2\\AssignmentApp2.csproj",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\AssignmentApp2\\AssignmentApp2.csproj",
-              "RelativeToolTip": "AssignmentApp2\\AssignmentApp2.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-05T14:19:11.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AbstractClassesAndMethods.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\AssignmentApp2\\AbstractClassesAndMethods.cs",
-              "RelativeDocumentMoniker": "AssignmentApp2\\AbstractClassesAndMethods.cs",
-              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\AssignmentApp2\\AbstractClassesAndMethods.cs",
-              "RelativeToolTip": "AssignmentApp2\\AbstractClassesAndMethods.cs",
-              "ViewState": "AgIAAB8AAABAZmZmZmYWwDgAAAAAAAAAAAAAAA==",
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\AssignmentApp2\\Interfaces.cs",
+              "RelativeDocumentMoniker": "AssignmentApp2\\Interfaces.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Programming 2 Assignment Folder\\dcit318-assignment2-11334923\\AssignmentApp2\\AssignmentApp2\\Interfaces.cs",
+              "RelativeToolTip": "AssignmentApp2\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T14:00:08.264Z",
+              "WhenOpened": "2025-08-05T14:23:09.555Z",
               "EditorCaption": ""
             }
           ]
